@@ -1,11 +1,18 @@
 # TensorFlow Tutorial
 
-Contains several implementations of Deep Learning models based on pure TensorFlow - no Keras.
+Welcome to this TensorFlow tutorial.
+This repository contains several implementations of Deep Learning models based on pure TensorFlow - no Keras here, just plain TensorFlow code.
 
-The models herein do not follow any specific order, this repository it's just about models that I found interestint. They can either be very basic or more advanced.
+Contents:
 
-Models:
+- TensorFlow_1_Classification_BatchGD:      implementation of a Deep Neural Network with simple Gradient Descent optimization.
 
-- TensorFlow_Classification_BreastCancer
+- TensorFlow_2_Classification_MiniBatchGD:  new version of the previous network, with implementation of Mini-Batch Gradient Descent.
 
-- TensorFlow_Autoencoder_DimensionalityReduction
+
+Coming Soon:
+- Stacked Autoencoder for Dimensionality Reduction / PCA
+
+- How to save and restore TensorFlow models.
+
+- Convolutional Neural Network
