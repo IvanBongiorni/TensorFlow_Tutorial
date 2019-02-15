@@ -1,6 +1,4 @@
-Author: Ivan Bongiorni, Data Scientist at GfK
-
-email: ivanbongiorni@gmail.com; [LinkedIn](https://www.linkedin.com/in/ivan-bongiorni-b8a583164/).
+Author: Ivan Bongiorni, Data Scientist at GfK; [LinkedIn](https://www.linkedin.com/in/ivan-bongiorni-b8a583164/).
 # TensorFlow Tutorial
 
 
