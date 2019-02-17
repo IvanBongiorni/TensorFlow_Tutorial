@@ -28,4 +28,6 @@ This repository contains several implementations of Deep Learning models based o
 
 - How to save and restore TensorFlow models.
 
+- Regression
+
 - Convolutional Neural Network
