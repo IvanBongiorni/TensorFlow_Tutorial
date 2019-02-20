@@ -18,6 +18,7 @@ This repository contains several implementations of Deep Learning models based o
 
 - **TensorFlow_2_Classification_MiniBatchGD**:  new version of the previous network, with implementation of Mini-Batch Gradient Descent.
 
+-  	**TensorFlow_3_Autoencoder_Dimensionality_Reduction**:  how to reduce the dimensionality with a stacked Autoencoder.
 
 
 
