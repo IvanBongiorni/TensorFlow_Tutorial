@@ -24,10 +24,9 @@ This repository contains several implementations of Deep Learning models based o
 
 ## Coming Soon:
 
-- Autoencoder for Dimensionality Reduction / PCA
-
 - How to save and restore TensorFlow models.
 
-- Regression
+- Regression tasks
 
-- Convolutional Neural Network
+- Convolutional Neural Networks
+
